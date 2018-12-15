@@ -1,6 +1,6 @@
 // ! use factory function for more general objects
 // ! use builder function for more customization
-// * Intent: Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+// ! Intent: Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 
 // ! problem: too many inputs can cloud what the inputs mean
 // const Person = require('./Person');
