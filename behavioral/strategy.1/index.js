@@ -5,7 +5,7 @@ Use Case: DECOUPLING payment process from checkout process
 Flexible payment methods (card/gift card/pay pal/etc)
 */
 
-// ! Intent: Define a family of algorithms, encapsulate each one,and make them interchageable. Strategy lets the algorithm vary independently from clients that use it
+// ! Intent: Define a family of algorithms, encapsulate each one,and make them interchageable. Strategy lets the algorithm vary independently from clients that use it.
 
 const logger = require('./Logger');
 

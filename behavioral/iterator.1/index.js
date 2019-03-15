@@ -1,5 +1,4 @@
-// ! Iterator: Provide a way to access the element of an aggregate object sequentially without exposing its underlying representation
-
+// ! Iterator: Provide a way to access the element of an aggregate object sequentially without exposing its underlying representation.
 
 const InventoryItem = require('./InventoryItem');
 
